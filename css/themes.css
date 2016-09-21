@@ -10,7 +10,6 @@ body{
     color: black;
     margin-top: 5%;
     margin-bottom: 5%;
-
     background-image: url('../img/login-bg.png');
     width: 100%;
     padding: 200px 0;
@@ -21,8 +20,12 @@ body{
     margin-bottom: 5px;
 }
 .row-fluid{
-     margin-bottom: 100px;
+     margin-bottom: 180px;
 }
 .form-control{
     text-align: center;
+}
+#button-login{
+    background-color: #cbb9a0;
+    border-color: #cbb9a0;
 }
